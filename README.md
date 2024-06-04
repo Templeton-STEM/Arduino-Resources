@@ -1,4 +1,9 @@
 # Arduino-Resources
+## General Resources
+### Arduino Reference
+Arduino Language Reference:
+https://www.arduino.cc/reference/en/
+
 ## Circuit Diagram Tools
 ### Wokwi
 Wokwi also lets you run Arduino simulations so you can test your code/wiring without a physical arduino!
