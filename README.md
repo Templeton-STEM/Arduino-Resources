@@ -5,6 +5,8 @@ Arduino Language Reference:
 https://www.arduino.cc/reference/en/
 
 ### OSEPP 201 Arduino Basics Starter Kit  Tutorials/Code
+https://www.osepp.com/starter-kits/89-osepp-201-arduino-basics-starter-kit
+
 
 
 ## Circuit Diagram Tools
